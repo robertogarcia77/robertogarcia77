@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+## Hola soy Roberto.
+## Soy alumno de FP de grado medio de SMR del IES S'Arenal
+
 <!--
 **robertogarcia77/robertogarcia77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
